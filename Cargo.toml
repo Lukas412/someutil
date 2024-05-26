@@ -2,5 +2,9 @@
 name = "someutil"
 version = "0.1.0"
 edition = "2021"
+description = "some utils to share accross projects"
+repository = "https://github.com/lukas412/someutil"
+license = "MIT"
 
 [dependencies]
+chrono = "0.4.38"
